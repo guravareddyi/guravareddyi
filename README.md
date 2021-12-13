@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @guravareddyi
+- 👀 I’m interested in Data Science
